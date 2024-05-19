@@ -1,0 +1,56 @@
+@import url('https://fonts.googleapis.com/css2?family=Ubuntu+Sans:ital,wght@0,100..800;1,100..800&display=swap');
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+html{
+    scroll-behavior: smooth;
+    font-family: "Ubuntu Sans", sans-serif;
+}
+
+.stat-container {
+    width: 100%;
+    padding: 20px;
+    background-color: #fff;
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+.stat-title {
+    font-size: 24px;
+    font-weight: bold;
+    color: #333;
+    margin-bottom: 20px;
+}
+.chart-container {
+    display: flex;
+    align-items: flex-end;
+    height: 300px;
+    border-left: 2px solid #ccc;
+    border-bottom: 2px solid #ccc;
+    padding-bottom: 10px;
+}
+.chart-bar {
+    width: 8%;
+    margin: 0 1%;
+    display: flex;
+    flex-direction: column-reverse;
+    align-items: center;
+}
+.chart-bar .fill {
+    height: 100%;
+    background-color: #3498db;
+    border-radius: 10px 10px 0 0;
+}
+.chart-bar .label {
+    margin-top: 5px;
+    text-align: center;
+    font-size: 14px;
+}
+.chart-bar .percentage {
+    margin-bottom: 5px;
+    font-size: 14px;
+}
+
+
