@@ -5,13 +5,26 @@ Cara Install Project ke local
 -   Fork Repo Github Saya
 -   Clone project repo saya dengan cara menuliskan pada terminal/cmd/git bash :<br> <b>git clone</b>
 ``````
-git clone https://github.com/bagussatoto/Aplikasi-Data-Penjualan-Laravel-8.git
+https://github.com/AhmadAlbara/Laravel11-pemesanan-bengkel.git
 `````` 
 -   lalu masuk ke direktori repo yg sudah di clone dengan ketik lg pada terminal/cmd/git bash <b>cd Laravel11-pemesanan-bengkel</b>
 -   lalu ketik <b>composser install </b>
--   tulis migrate database pada terminal/cmd/git bash : <b>php artisan migrate</b>
--   lalu ketik <b>npm install </b>
--   jalankan php artisan serve dan npm run dev pada terminal/cmd/git bash : <b>php artisan serve</b> <b>npm run dev</b>
+-   tulis migrate database pada terminal/cmd/git bash : 
+``````
+php artisan migrate
+`````` 
+-   lalu ketik 
+``````
+npm install
+`````` 
+-   jalankan php artisan serve dan npm run dev pada terminal/cmd/git bash :
+``````
+php artisan serve
+``````
+&
+``````
+npm run dev
+``````
 
 ## Dokumentasi Project
 ![Screenshot 2024-05-20 012605](https://github.com/AhmadAlbara/Laravel11-pemesanan-bengkel/assets/113780404/52cb923f-7ad2-4b36-bce8-be7fc8b37717)
