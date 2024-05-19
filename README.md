@@ -1,66 +1,28 @@
-<p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400" alt="Laravel Logo"></a></p>
+## Install
+Cara Install Project ke local 
+-   Follow Github Saya
+-   Star Repo Github Saya
+-   Fork Repo Github Saya
+-   Clone project repo saya dengan cara menuliskan pada terminal/cmd/git bash :<br> <b>git clone</b>
+``````
+git clone https://github.com/bagussatoto/Aplikasi-Data-Penjualan-Laravel-8.git
+`````` 
+-   lalu masuk ke direktori repo yg sudah di clone dengan ketik lg pada terminal/cmd/git bash <b>cd Laravel11-pemesanan-bengkel</b>
+-   lalu ketik <b>composser install </b>
+-   tulis migrate database pada terminal/cmd/git bash : <b>php artisan migrate</b>
+-   lalu ketik <b>npm install </b>
+-   jalankan php artisan serve dan npm run dev pada terminal/cmd/git bash : <b>php artisan serve</b> <b>npm run dev</b>
 
-<p align="center">
-<a href="https://github.com/laravel/framework/actions"><img src="https://github.com/laravel/framework/workflows/tests/badge.svg" alt="Build Status"></a>
-<a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/dt/laravel/framework" alt="Total Downloads"></a>
-<a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/v/laravel/framework" alt="Latest Stable Version"></a>
-<a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/l/laravel/framework" alt="License"></a>
-</p>
-
-## About Laravel
-
-Laravel is a web application framework with expressive, elegant syntax. We believe development must be an enjoyable and creative experience to be truly fulfilling. Laravel takes the pain out of development by easing common tasks used in many web projects, such as:
-
-- [Simple, fast routing engine](https://laravel.com/docs/routing).
-- [Powerful dependency injection container](https://laravel.com/docs/container).
-- Multiple back-ends for [session](https://laravel.com/docs/session) and [cache](https://laravel.com/docs/cache) storage.
-- Expressive, intuitive [database ORM](https://laravel.com/docs/eloquent).
-- Database agnostic [schema migrations](https://laravel.com/docs/migrations).
-- [Robust background job processing](https://laravel.com/docs/queues).
-- [Real-time event broadcasting](https://laravel.com/docs/broadcasting).
-
-Laravel is accessible, powerful, and provides tools required for large, robust applications.
-
-## Learning Laravel
-
-Laravel has the most extensive and thorough [documentation](https://laravel.com/docs) and video tutorial library of all modern web application frameworks, making it a breeze to get started with the framework.
-
-You may also try the [Laravel Bootcamp](https://bootcamp.laravel.com), where you will be guided through building a modern Laravel application from scratch.
-
-If you don't feel like reading, [Laracasts](https://laracasts.com) can help. Laracasts contains thousands of video tutorials on a range of topics including Laravel, modern PHP, unit testing, and JavaScript. Boost your skills by digging into our comprehensive video library.
-
-## Laravel Sponsors
-
-We would like to extend our thanks to the following sponsors for funding Laravel development. If you are interested in becoming a sponsor, please visit the [Laravel Partners program](https://partners.laravel.com).
-
-### Premium Partners
-
-- **[Vehikl](https://vehikl.com/)**
-- **[Tighten Co.](https://tighten.co)**
-- **[WebReinvent](https://webreinvent.com/)**
-- **[Kirschbaum Development Group](https://kirschbaumdevelopment.com)**
-- **[64 Robots](https://64robots.com)**
-- **[Curotec](https://www.curotec.com/services/technologies/laravel/)**
-- **[Cyber-Duck](https://cyber-duck.co.uk)**
-- **[DevSquad](https://devsquad.com/hire-laravel-developers)**
-- **[Jump24](https://jump24.co.uk)**
-- **[Redberry](https://redberry.international/laravel/)**
-- **[Active Logic](https://activelogic.com)**
-- **[byte5](https://byte5.de)**
-- **[OP.GG](https://op.gg)**
-
-## Contributing
-
-Thank you for considering contributing to the Laravel framework! The contribution guide can be found in the [Laravel documentation](https://laravel.com/docs/contributions).
-
-## Code of Conduct
-
-In order to ensure that the Laravel community is welcoming to all, please review and abide by the [Code of Conduct](https://laravel.com/docs/contributions#code-of-conduct).
-
-## Security Vulnerabilities
-
-If you discover a security vulnerability within Laravel, please send an e-mail to Taylor Otwell via [taylor@laravel.com](mailto:taylor@laravel.com). All security vulnerabilities will be promptly addressed.
-
-## License
-
-The Laravel framework is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
+## Dokumentasi Project
+![Screenshot 2024-05-20 012605](https://github.com/AhmadAlbara/Laravel11-pemesanan-bengkel/assets/113780404/52cb923f-7ad2-4b36-bce8-be7fc8b37717)
+![Screenshot 2024-05-20 012543](https://github.com/AhmadAlbara/Laravel11-pemesanan-bengkel/assets/113780404/8c9ad76a-5399-4274-a797-e84ea6c7d656)
+![Screenshot 2024-05-20 012518](https://github.com/AhmadAlbara/Laravel11-pemesanan-bengkel/assets/113780404/4a7d71d4-2f1c-4abf-a50d-4cc27bfd268d)
+![Screenshot 2024-05-20 012449](https://github.com/AhmadAlbara/Laravel11-pemesanan-bengkel/assets/113780404/9e0c892c-77cd-4d1d-81e5-259c635539d1)
+![Screenshot 2024-05-20 012429](https://github.com/AhmadAlbara/Laravel11-pemesanan-bengkel/assets/113780404/4f9709f0-4c09-49b0-9d96-ba71bda0bf2f)
+![Screenshot 2024-05-20 012409](https://github.com/AhmadAlbara/Laravel11-pemesanan-bengkel/assets/113780404/2fa566e9-c5e2-48d1-91b2-80b12518c637)
+![Screenshot 2024-05-20 012339](https://github.com/AhmadAlbara/Laravel11-pemesanan-bengkel/assets/113780404/c2cba5a0-122f-49af-9e7c-09c2866ad63a)
+![Screenshot 2024-05-20 012310](https://github.com/AhmadAlbara/Laravel11-pemesanan-bengkel/assets/113780404/ac685241-0027-4a06-801a-c703923fc016)
+![Screenshot 2024-05-20 012253](https://github.com/AhmadAlbara/Laravel11-pemesanan-bengkel/assets/113780404/9fbb671f-2d6e-4c3b-b4bd-9de578147269)
+![Screenshot 2024-05-20 012203](https://github.com/AhmadAlbara/Laravel11-pemesanan-bengkel/assets/113780404/470778a2-4422-4eaa-be22-4f77715d70fd)
+![Screenshot 2024-05-20 012116](https://github.com/AhmadAlbara/Laravel11-pemesanan-bengkel/assets/113780404/59bf52eb-ef62-462d-a0f3-361dde0e8405)
+![Screenshot 2024-05-20 012038](https://github.com/AhmadAlbara/Laravel11-pemesanan-bengkel/assets/113780404/111041ef-0deb-487b-95b5-bd5454d45c25)
