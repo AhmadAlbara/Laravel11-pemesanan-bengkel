@@ -11,7 +11,7 @@ https://github.com/AhmadAlbara/Laravel11-pemesanan-bengkel.git
 -   lalu ketik <b>composser install </b>
 -   tulis migrate database pada terminal/cmd/git bash : 
 ``````
-php artisan migrate
+php artisan migrate & php artisan db:seed
 `````` 
 -   lalu ketik 
 ``````
@@ -25,5 +25,13 @@ php artisan serve
 ``````
 npm run dev
 ``````
+Akun Admin : 
+admin@gmail.com
+password123
+
+Akun Customer :
+customer@gmail.com
+password123
+
 
 ## Dokumentasi Project
